@@ -2,7 +2,7 @@
 
 5 PCS of Artag's AR488 board for Arduino Nano.
 
-Artag repository
+Artag's repository
 https://github.com/artgodwin/AR488-32u4-PCB
 
 AR488 source
